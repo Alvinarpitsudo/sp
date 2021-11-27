@@ -822,6 +822,19 @@ section {
   color: #038018;
 }
 
+.collapse-btns .collapse-btn{
+  padding: 10px;
+  border-radius: 25px;
+  background: #e40000;
+  color: #fff;
+  transition: all ease-in-out 0.4s;
+  margin-top: 50px;
+}
+.collapse-btns .collapse-btn:hover{
+  color: #e40000;
+  background: #038018;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
