@@ -16,7 +16,6 @@
  <header id="header" class="sticky-top header-inner-pages">
    <div class="container d-flex align-items-center justify-content-between">
 
-     <!-- Uncomment below if you prefer to use an image logo -->
      <a href="index.html" class="logo"><img src="assets/img/logo.JPG" alt="" class="img-fluid"></a>
 
      <nav id="navbar" class="navbar">
@@ -26,10 +25,10 @@
            <ul>
              <li><a href="about_party.php">पार्टी के बारे में</a></li>
              <li><a href="party_history.php">पार्टी का इतिहास</a></li>
-             <li><a href="#">पार्टी विचारधारा</a></li>
-             <li><a href="#">पार्टी संविधान</a></li>
-             <li><a href="#">पार्टी नेता</a></li>
-             <li><a href="#">पार्टी अध्यक्ष</a></li>
+             <li><a href="party_ideology.php">पार्टी विचारधारा</a></li>
+             <li><a href="party_constitution.php">पार्टी संविधान</a></li>
+             <li><a href="party_leader.php">पार्टी नेता</a></li>
+             <li><a href="party_president.php">पार्टी अध्यक्ष</a></li>
            </ul>
          </li>
          <li><a class="nav-link scrollto" href="#portfolio">जिला अध्यक्ष</a></li>
