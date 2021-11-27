@@ -63,21 +63,84 @@
                         <img src="assets/img/ourhistory/4.jpg" class="d-block w-100 img-fluid" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1 class="text-success fw-bold">1994</h1>
-                            <h3 class="text-dark fw-bold">Second National Conference , Uttar Pradesh, 1993</h3>
+                            <h3 class="text-dark fw-bold">Second National Conference (La Martiniere College Ground, Lucknow), 11th and 12th October, 1994</h3>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/img/ourhistory/4.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <img src="assets/img/ourhistory/5.jpg" class="d-block w-100 img-fluid" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h1 class="text-success fw-bold">1993</h1>
-                            <h3 class="text-dark fw-bold">Shri. Mulayam Singh Yadav - Second terms as Chief Minister, Uttar Pradesh, 1993</h3>
+                            <h1 class="text-success fw-bold">1996</h1>
+                            <h3 class="text-dark fw-bold">Third National Conference (Begam Hazrath Mahal Park, Lucknow), 27th and 28th July, 1996</h3>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/img/ourhistory/4.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <img src="assets/img/ourhistory/6.jpg" class="d-block w-100 img-fluid" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h1 class="text-success fw-bold">1993</h1>
-                            <h3 class="text-dark fw-bold">Shri. Mulayam Singh Yadav - Second terms as Chief Minister, Uttar Pradesh, 1993</h3>
+                            <h1 class="text-success fw-bold">1996</h1>
+                            <h3 class="text-dark fw-bold">Shri. Mulayam Singh Yadav appointed as Defence Minister of India (1996-1998)</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/7.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">1999</h1>
+                            <h3 class="text-dark fw-bold">4th National Conference (Dashera Maidaan, Bhopal)</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/8.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2002</h1>
+                            <h3 class="text-dark fw-bold">5th National Conference (Phool Bagh Maidan, Kanpur), 3rd and 4th January, 2002</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/9.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2003</h1>
+                            <h3 class="text-dark fw-bold">Shri Mulayam Singh Yadav - Third term as Chief Minister, Uttar Pradesh</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/10.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2005</h1>
+                            <h3 class="text-dark fw-bold">6th National Conference (Gandhi Maidan, Patna) 21st, 22nd and 23rd April, 2005</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/11.jpg"class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2008</h1>
+                            <h3 class="text-dark fw-bold">7th National Conference (Pandit Ravi Shankar Stadium, Jalapur) 26th, 27th and 28th March 2008</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/12.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2011</h1>
+                            <h3 class="text-dark fw-bold">8th National Conference (Taar Ghar ka Maidan, Agra) 7th and 8th June 2011</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/13.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2012</h1>
+                            <h3 class="text-dark fw-bold">Shri Akhilesh Yadav - First term as Chief Minister, Uttar Pradesh, 12th March 2012</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/14.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2014</h1>
+                            <h3 class="text-dark fw-bold">9th National Conference (Janeshwar Mishra Park, Lucknow) 8th, 9th and 10th October, 2014</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/ourhistory/2017.jpg" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 class="text-success fw-bold">2017</h1>
+                            <h3 class="text-dark fw-bold">Akhilesh Yadav elected as Samajwadi Party President</h3>
                         </div>
                     </div>
                 </div>
